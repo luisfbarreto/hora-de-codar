@@ -30,6 +30,14 @@ button{
     margin: 30px;
 }
 
+.ep{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.btskip {
+    font: normal 22pt arial;
+}
+
 button:hover{
     cursor: pointer;
     scale: 1.3;
